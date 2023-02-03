@@ -1,4 +1,4 @@
-import bal
-bal.Main()
+import test
+test.Main()
 
 
